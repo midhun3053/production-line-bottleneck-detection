@@ -180,5 +180,4 @@ For issues or questions:
 
 ---
 
-**Built for: Hackathon 2024**  
-**Status: Production Ready** ✅
+
