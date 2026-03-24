@@ -1,0 +1,18 @@
+# Ignore dataset
+data/
+
+# Ignore csv files
+*.csv
+
+# Ignore virtual env
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
